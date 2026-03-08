@@ -1,6 +1,8 @@
 # KickMachine
 FL Studio Patcher for Kicks
 
+![KickMachine](KickMachine.png)
+
 ## Installation
 
 Add the ```KickMachine.fst``` file to your Patcher presets folder.
